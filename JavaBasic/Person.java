@@ -13,7 +13,7 @@ public class Person {
         aye.greet();
         aung.greet();
 
-        System.out.println(aye.name + " is " + aye.age + " years old.");
+        System.out.println(aye.name + " is " + aye.age + " years old");
     }
 }
 
@@ -23,10 +23,10 @@ class Student {
     int age;
 
     void greet() {
-        System.out.println("------------------");
+        System.out.println("-------------------");
         System.out.println("My name is " + name);
         System.out.println("I am " + age);
-        System.out.println("------------------");
+        System.out.println("-------------------");
     }
 
 }

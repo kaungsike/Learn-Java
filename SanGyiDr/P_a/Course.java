@@ -1,13 +1,9 @@
-package JavaBasic;
+package SanGyiDr.P_a;
 
 public class Course {
-    String name;
+    public String name;
 
     public Course(String name){
         this.name = name;
-    }
-
-    public Course() {
-
     }
 }
